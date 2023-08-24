@@ -1,0 +1,23 @@
+/* .LandingPageNavBar{
+    background: linear-gradient(hsl(13, 100%, 72%), hsl(353, 100%, 62%));
+} */
+#product-dropwdown{
+    color: white;
+}
+#company-dropdown{
+    color: white;
+}
+#connect-dropwdown{
+    color: white;
+}
+#LandingPageLoginBtn{
+    color: white;
+}
+#LandingPageSignUpBtn{
+    color: hsl(353, 100%, 62%);
+    background-color: white;
+}
+#LandingPageSignUpBtn:hover{
+    background-color: hsl(355, 100%, 74%);
+    color: white;
+}
